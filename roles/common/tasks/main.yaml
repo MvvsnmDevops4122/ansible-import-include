@@ -6,6 +6,10 @@
   debug:
     msg: "Hi from MSG-2"
 
+- name: Set a dynamic variable
+  set_fact:
+   OS: "Debian"
+
 - name: msg-3
   debug:
     msg: "Hi from MSG-3"
