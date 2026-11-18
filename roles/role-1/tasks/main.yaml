@@ -1,7 +1,7 @@
 
 - name: call common role from role-1
-  include_role:
-  #import_role:
+  # include_role:
+  import_role:
     name: common
   # when: OS == "RedHat"
   # tags:
