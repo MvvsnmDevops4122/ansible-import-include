@@ -6,7 +6,7 @@
   when: OS == "RedHat"
   tags:
     -hi  
-  # loop: 
-  #  - satya
-  #  - jeeva
-  #  - durga
+  loop: 
+   - satya
+   - jeeva
+   - durga
