@@ -1,6 +1,6 @@
 - name: msg-1
   debug:
-    msg: "Hi from {{ item }}"
+    msg: "Hi from MSG-1"
   # tags:
   #  -hi
 
