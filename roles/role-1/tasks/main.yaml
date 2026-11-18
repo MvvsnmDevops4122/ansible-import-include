@@ -4,8 +4,8 @@
   #import_role:
     name: common
   when: OS == "RedHat"
-  # tags:
-  #  -hi  
+  tags:
+    -hi  
   # loop: 
   #  - satya
   #  - jeeva
