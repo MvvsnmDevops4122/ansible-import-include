@@ -1,5 +1,5 @@
 - name: msg-1
-  debug:
+  debugg:
     msg: "Hi from MSG-1"
   # tags:
   #  -hi
